@@ -59,3 +59,11 @@ client.retrieve(dataset, request).download()
 #=====================================
 https://cds.climate.copernicus.eu/datasets/reanalysis-era5-single-levels?tab=download
 #==================================0===
+
+
+##===================================
+    "time": [
+        "08:00", "09:00", "10:00",
+        "11:00"
+    ],
+##  que sea para desde las 8am hasta las 5pm=======
